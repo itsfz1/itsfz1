@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fahim Zada</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Email api service**
+- 🔭 I’m currently working on **Posts for dev.to**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Mobile game development**
 
-- 👯 I’m looking to collaborate on **Chatting app socket.io**
+- 👯 I’m looking to collaborate on **Nothing right now!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsfz1](https://github.com/itsfz1)
 
 - 📫 How to reach me **me@fahimzada.com**
 
-- 📄 Know about my experiences [https://fahimzada.com/](https://fahimzada.vercel.app/)
+- 📄 Know about my experiences [https://fahimzada.com/](https://fahimzada.com/)
 
 - ⚡ Fun fact **I think you're funny**
 
