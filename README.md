@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Nothing right now!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsfz1](https://github.com/itsfz1)
+<!--- - 👨‍💻 All of my projects are available at [https://github.com/itsfz1](https://github.com/itsfz1) --->
 
 - 📫 How to reach me **me@fahimzada.com**
 
